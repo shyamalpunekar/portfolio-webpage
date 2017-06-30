@@ -13,6 +13,7 @@ h2{
 
 body{
   background-color:  #cce6ff;
+  /*background-image: url("code.jpg");*/
 }
 
 .changetype{
@@ -20,18 +21,18 @@ body{
 }
 
 p{
-  font-size: 30px;
-  border: 2px solid #1a75ff;
+  /*font-size: 20px;*/
+  border: 2px thin #000080;
   width: 250px;
   background-color: #ffffcc;
-  border-radius:5px;
+  /*border-radius:5px;*/
   padding: 4px;
   margin: left;
 }
 .about p{
-  color:blue;
+  color:#000080;
   width:400px;
-  font-size: 20px;
+  /*font-size: 18px;*/
 }
 .intro img{
   border-radius: 400px;
