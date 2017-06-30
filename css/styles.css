@@ -1,0 +1,33 @@
+h1{
+  color: blue;
+
+}
+
+h2.changetype{
+  font-size: 40px;
+  text-decoration: none;
+}
+h2{
+  color: #408000;
+}
+
+body{
+  background-color:  #cce6ff;
+}
+
+.changetype{
+  color:#336600;
+}
+
+p{
+  font-size: 30px;
+  border: 2px solid #1a75ff;
+  width: 250px;
+  background-color: #ffffcc;
+  border-radius:5px;
+  padding: 4px;
+  margin: left;
+}
+.intro{
+
+}
