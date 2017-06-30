@@ -1,6 +1,6 @@
 h1{
   color: blue;
-
+  font-family: cursive;
 }
 
 h2.changetype{
@@ -28,12 +28,14 @@ p{
   padding: 4px;
   margin: left;
 }
-.intro{
-
+.about p{
+  color:blue;
+  width:400px;
+  font-size: 20px;
 }
 .intro img{
   border-radius: 20px;
-  
+
 }
 .include{
   width: 400px;
