@@ -44,10 +44,11 @@ p{
 .about p{
   color:#000080;
   width:400px;
+  height: 600px;
   /*font-size: 18px;*/
 }
 .intro img{
-  border-radius: 400px;
+  /*border-radius: 400px;*/
 
 }
 .include{
