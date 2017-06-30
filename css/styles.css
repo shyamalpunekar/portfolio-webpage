@@ -31,7 +31,10 @@ p{
 .intro{
 
 }
-
 .intro img{
   border-radius: 20px;
+  
+}
+.include{
+  width: 400px;
 }
