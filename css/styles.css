@@ -99,10 +99,12 @@ img {
 	body {
 		background-color: teal;
 	}
+	.centerTest {
+		width: 100%;
+		text-align: center;
+	}
+}
 
-.centerTest {
-    width:100%;
-    text-align:center;
-  }
-
+h4 {
+	text-align: ;
 }
