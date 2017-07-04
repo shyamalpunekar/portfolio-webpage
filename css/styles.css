@@ -1,88 +1,108 @@
-h1{
-  color: blue;
-  font-family: cursive;
+h1 {
+	color: blue;
+	font-family: cursive;
 }
 
-h2.changetype{
-  font-size: 40px;
-  text-decoration: none;
-}
-h2{
-  color: #408000;
+h2.changetype {
+	font-size: 40px;
+	text-decoration: none;
 }
 
-body{
-  background-color:#ffe6ff;
-  /*background-image: url('img/code.jpeg');*/
+h2 {
+	color: #408000;
 }
 
-#img_float_align{
-  float: right;
-  text: 10px;
-}
-.changetype{
-  color:#336600;
+body {
+	background-color: #EBDEF0;
+	/*background-image: url('img/code.jpeg');*/
 }
 
-p{
-  font-size: 20px;
-  border: 2px thin #000080;
-  width: 400px;
-  background-color: #ffffcc;
-  /*border-radius:5px;*/
-  padding: 4px;
-  margin: left;
-  margin-bottom: 80px;
-
-}
-.about p{
-  color:#000080;
-  width:600px;
-  height: 600px;
-  /*font-size: 18px;*/
-}
- img{
-  border-radius: 400px;
-  padding: 40px;
-  margin-top: 40px;
-  margin-bottom: 40px;
-}
-.include{
-  width: 400px;
-}
-.sidebar{
-  margin-left: 60px;
+#img_float_align {
+	float: right;
+	text: 10px;
 }
 
-.hobbies{
-  margin-left: 60px;
+.changetype {
+	color: #336600;
 }
-.background{
-  margin-left: 60px;
+
+p {
+	font-size: 20px;
+	border: 2px thin #000080;
+	width: 400px;
+	background-color: #E2E2EA;
+	/*border-radius:5px;*/
+	padding: 4px;
+	margin: left;
+	margin-bottom: 80px;
+}
+
+.about p {
+	color: #000080;
+	width: 600px;
+	height: 600px;
+	/*font-size: 18px;*/
+}
+
+img {
+	/*border-radius: 400px;*/
+	padding: 40px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.include {
+	width: 400px;
+}
+
+.sidebar {
+	margin-left: 60px;
+}
+
+.hobbies {
+	margin-left: 5px;
+}
+
+.background {
+	margin-left: 60px;
 }
 
 #welcome_text {
-  padding: 30px;
-  padding-bottom: 20px;
-  margin: 20px;
-  margin-top: 45px;
+	padding: 30px;
+	padding-bottom: 20px;
+	margin: 20px;
+	margin-top: 45px;
 }
-#csm_logo{
-  margin-top: 10px;
-  margin-left: 10px;
+
+#csm_logo {
+	margin-top: 10px;
+	margin-left: 10px;
 }
-.aws_logo{
-  margin-bottom: 10px ;
-  margin-top: 10px;
+
+.aws_logo {
+	margin-bottom: 10px;
+	margin-top: 10px;
 }
+
+.header {
+	text-align: center;
+}
+
 @media screen and (max-width: 768px) and (min-width: 600px) {
-  body{
-    background-color: black;
-    color: green;
-  }
+	body {
+		background-color: black;
+		color: green;
+	}
 }
-@media screen and (max-width:480px){
-  body{
-    background-color: teal;
+
+@media screen and (max-width:480px) {
+	body {
+		background-color: teal;
+	}
+
+.centerTest {
+    width:100%;
+    text-align:center;
   }
+
 }
