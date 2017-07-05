@@ -108,3 +108,8 @@ img {
 h4 {
 	text-align: ;
 }
+
+.bg-info span {
+   font-size: 140%;
+   background: inherit;
+}
