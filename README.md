@@ -1,8 +1,8 @@
 # My Portfolio
 
-#### This Portfolio webpage will provide my skills, knowledge,experience }, {06.30.2017}
+#### This Portfolio webpage will provide my skills, knowledge,experience , 06.30.2017
 
-#### By Shyamal Punekar}
+#### By Shyamal Punekar
 
 ## Description
 
@@ -31,4 +31,4 @@ https://shyamalpunekar.github.io/portfolio-webpage/
 
 This software is licensed under MIT license.
 
-Copyright (c) 2016 **_{Shyamal Punekar}_**
+Copyright (c) 2016 Shyamal Punekar
