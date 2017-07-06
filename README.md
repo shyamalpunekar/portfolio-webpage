@@ -1,12 +1,12 @@
-# _{My Portfolio}_
+# My Portfolio
 
-#### _{This Portfolio webpage will provide my skills, knowledge,experience }, {06.30.2017}_
+#### This Portfolio webpage will provide my skills, knowledge,experience }, {06.30.2017}
 
-#### By _**{Shyamal Punekar}**_
+#### By Shyamal Punekar}
 
 ## Description
 
-_{Webpage gives an information about my educational background, skills, certifications, technologies I've used contact information}_
+Webpage gives an information about my educational background, skills, certifications, technologies I've used contact information
 
 ## Setup/Installation Requirements
 
@@ -16,19 +16,19 @@ _{Webpage gives an information about my educational background, skills, certific
 * _repository links_
 
 ## Known Bugs
-_{Currently grid is not working as expected, bug fix ongoing. Will be available in next release. }_
+Currently grid is not working as expected, bug fix ongoing. Will be available in next release.
 
 ## Support and contact details
-_{Further assistance please contact @455-435-9900.}_
+Further assistance please contact @455-435-9900.
 
 ## Technologies Used
-_{HTML, Bootstrap and CSS.}_
+HTML, Bootstrap and CSS.
 
 ## Reference
-{https://shyamalpunekar.github.io/portfolio-webpage/}
+https://shyamalpunekar.github.io/portfolio-webpage/
 
 ### License
 
-{This software is licensed under MIT license.}
+This software is licensed under MIT license.
 
 Copyright (c) 2016 **_{Shyamal Punekar}_**
