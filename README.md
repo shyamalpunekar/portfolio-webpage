@@ -10,10 +10,10 @@ Webpage gives an information about my educational background, skills, certificat
 
 ## Setup/Installation Requirements
 
-* _Open the browser_
-* _Enter Shyamal Punekar Portfolio_
-* _Browser information_
-* _repository links_
+* Open the browser
+* Enter Shyamal Punekar Portfolio -   https://shyamalpunekar.github.io/portfolio-webpage/
+* Browser information
+*
 
 ## Known Bugs
 Currently grid is not working as expected, bug fix ongoing. Will be available in next release.
@@ -25,7 +25,7 @@ Further assistance please contact @455-435-9900.
 HTML, Bootstrap and CSS.
 
 ## Reference
-https://shyamalpunekar.github.io/portfolio-webpage/
+https://github.com/shyamalpunekar
 
 ### License
 
